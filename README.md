@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Computational Physicist & Quantum Software Engineer specializing in quantum error correction simulation, NISQ algorithm benchmarking, and hybrid quantum-classical optimization frameworks.
+I'm a Computational Physicist & Quantum Software Engineer specializing in quantum error correction simulation, NISQ algorithm benchmarking, and hybrid quantum-classical optimization frameworks.
 
 ---
 
